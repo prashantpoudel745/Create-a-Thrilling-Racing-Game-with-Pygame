@@ -1,2 +1,2 @@
 # car_game_using_pygame
-its a simple game 2d game that allows you to play with the AI based computer
+ just clone the repo  and see yourself . too lazy to write readme 
